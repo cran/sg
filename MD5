@@ -1,0 +1,9 @@
+89af0fc964812387fefaf782404b4d97 *DESCRIPTION
+6936183c3d8a59d7d97a126fceea1db6 *LICENSE
+04a1cf6868fc262444dbcebc1494d5af *NAMESPACE
+cc8ebb3bb5f683b686ef73f87a68c048 *NEWS.md
+a71b5cdcbb61c2e970d12e3f7384e68f *R/sg.R
+6959014286b903e406e3672e231b05e9 *README.md
+bc96e6587e6a2c63b00e3dff73f681e7 *man/get_api_key.Rd
+f8a0db9d514de6bf285ffd0fccdae633 *man/is_email_address.Rd
+c20202f556ae610a8ac03119bb57e0db *man/sg_mime.Rd
